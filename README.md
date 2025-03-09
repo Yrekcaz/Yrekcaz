@@ -1,5 +1,4 @@
-Hello fellas, I'm Yrekcaz (aka Yrekcaz7)
-I'm super into electronics and robotics. I'm the creator behind Keno and the Recreation of the Vector app.
+hello! I'm Yrekcaz7, but I am also known as AnkiZack. I am an independent contractor for Anki, and have worked on their [website](anki.bot), Overdrive V4, and soon Viccy ;3
 
 <!---
 Yrekcaz/Yrekcaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
